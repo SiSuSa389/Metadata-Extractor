@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Metadata Extractor
 
 Built a FastAPI-based NLP pipeline using spaCy to extract dates, authors, and key terms from unstructured PDF, DOCX, and TXT files via rule-based and NER methods.
